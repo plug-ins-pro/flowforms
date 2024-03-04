@@ -1,0 +1,54 @@
+{
+    "name": "FlowForms",
+    "version": "24.1",
+    "description": "United Codes FlowForms: let users create highly advanced Forms in their applications, all using a single Oracle APEX plug-in.",
+    "keywords": [
+        "HTML Editor",
+        "FLW",
+        "Flow",
+        "blob",
+        "32k",
+        "Forms"
+    ],
+    "homepage": "https://www.plug-ins-pro.com/",
+    "bugs": {
+        "url": "https://github.com/plug-ins-pro/flowforms/issues",
+        "email": "support@plug-ins-pro.com"
+    },
+    "license": "Commercial",
+    "commercial": "Yes",
+    "author": {
+        "name": "United Codes",
+        "email": "info@plug-ins-pro.com",
+        "url": "https://www.united-codes.com/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/plug-ins-pro/flowforms"
+    },
+    "oracle": {
+        "versions": [
+            "19.x",
+            "21.x"
+        ],
+        "apex": {
+            "versions": [
+                "19.2.0",
+                "20.1.0",
+                "20.2.0",
+                "21.1.0",
+                "21.2.0",
+                "22.1.0",
+                "22.2.0",
+                "23.1.0",
+                "23.2.0"
+            ],
+            "plugin": {
+                "internalName": "UNITEDCODES_FLOWFORMS",
+                "type": "region",
+                "demo": "https://www.plug-ins-pro.com/ords/pluginspro_web/r/flowforms",
+                "previewImage": "https://www.plug-ins-pro.com/ords/pluginspro_web/r/flowforms/files/static/v114/demo.gif"
+            }
+        }
+    }
+}
