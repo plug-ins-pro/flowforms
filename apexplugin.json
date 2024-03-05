@@ -1,26 +1,25 @@
 {
     "name": "FlowForms",
     "version": "24.1",
-    "description": "United Codes FlowForms: let users create highly advanced Forms in their applications, all using a single Oracle APEX plug-in.",
+    "description": "Plug-ins Pro FlowForms: let users create highly advanced, dynamic Forms in their applications, all using a single Oracle APEX plug-in.",
     "keywords": [
-        "HTML Editor",
-        "FLW",
-        "Flow",
-        "blob",
-        "32k",
-        "Forms"
+        "FlowForms",
+        "Dynamic Items",
+        "Forms",
+        "Dynamic"
     ],
     "homepage": "https://www.plug-ins-pro.com/",
     "bugs": {
         "url": "https://github.com/plug-ins-pro/flowforms/issues",
-        "email": "support@plug-ins-pro.com"
+        "email": "info@plug-ins-pro.com"
     },
     "license": "Commercial",
     "commercial": "Yes",
     "author": {
         "name": "United Codes",
         "email": "info@plug-ins-pro.com",
-        "url": "https://www.united-codes.com/"
+        "url": "https://www.plug-ins-pro.com/",
+        "twitter": "@Plug_ins_Pro"
     },
     "repository": {
         "type": "git",
@@ -28,8 +27,9 @@
     },
     "oracle": {
         "versions": [
-            "19.x",
-            "21.x"
+            "19.0.0.0",
+            "21.0.0.0",
+            "23.0.0.0"
         ],
         "apex": {
             "versions": [
@@ -46,8 +46,8 @@
             "plugin": {
                 "internalName": "UNITEDCODES_FLOWFORMS",
                 "type": "region",
-                "demo": "https://www.plug-ins-pro.com/ords/pluginspro_web/r/flowforms",
-                "previewImage": "https://www.plug-ins-pro.com/ords/pluginspro_web/r/flowforms/files/static/v114/demo.gif"
+                "demo": "https://apex.apexrnd.com/ords/r/pip_prd/flowforms/",
+                "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/flowforms.png"
             }
         }
     }
