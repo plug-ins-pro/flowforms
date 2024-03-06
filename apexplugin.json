@@ -31,6 +31,7 @@
     },
     "oracle": {
         "versions": [
+            "18.0.0.0",
             "19.0.0.0",
             "21.0.0.0",
             "23.0.0.0"
@@ -51,7 +52,7 @@
                 "internalName": "UNITEDCODES_FLOWFORMS",
                 "type": "region",
                 "demo": "https://apex.apexrnd.com/ords/r/pip_prd/flowforms/",
-                "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/flowforms.png"
+                "previewImage": "https://unitedcodes.s3.eu-west-1.amazonaws.com/plugin/images/flowforms.gif"
             }
         }
     }
