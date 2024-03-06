@@ -6,7 +6,11 @@
         "FlowForms",
         "Dynamic Items",
         "Forms",
-        "Dynamic"
+        "Dynamic",
+        "Generate",
+        "JSON",
+        "Schema",
+        "Multi-Lingual"
     ],
     "homepage": "https://www.plug-ins-pro.com/",
     "bugs": {
